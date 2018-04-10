@@ -1,3 +1,6 @@
 .idea/
 out/
 spring-social-showcase.iml
+src/main/resources/application.yml
+src/main/resources/keystore.jks
+
